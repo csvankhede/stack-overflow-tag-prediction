@@ -1,4 +1,4 @@
-# stack-overflow-tag-prediction
+# stack overflow tag prediction
 ![SO_Tag_Prediction2](https://user-images.githubusercontent.com/25454660/62774821-999b6d80-bac3-11e9-8876-5fbd6dc0151b.jpg)
 This repository contains a case study of stack overflow tag prediction. Where diferent machine learning models and techniqes are used.
 ### Data Overview
